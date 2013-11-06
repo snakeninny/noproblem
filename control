@@ -1,0 +1,10 @@
+Package: com.naken.noproblem
+Name: NoProblem
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable sending crash log to Apple
+Maintainer: snakeninny
+Author: snakeninny
+Homepage: http://ying.lu
+Section: Tweaks
